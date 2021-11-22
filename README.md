@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ice-a/ice-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on GuangZhou
 - 🌱 I’m currently learning Python Node Javascript Go 
 - 💬 Ask me about Python
--->
+
 ## 爱喝水的木子 🐟
 
 - 🐧 爬虫工程师,拖延症晚期患者,数据爱好者
