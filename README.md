@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 loc GuangZhou NanSha
-- 🌱 skill Python Node Javascript Go 
-- 💬 Ask me about Python
+- 🔭 广州
+- 🌱 Python Node Javascript Go 
 
 ## 爱喝水的木子 🐟
 
