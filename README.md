@@ -1,7 +1,5 @@
+# 爱喝水的木子 🐟
 - 🌱 Python Node Javascript Go 
-
-## 爱喝水的木子 🐟
-
 - 🐧 爬虫工程师,拖延症晚期患者,数据爱好者
 - 🏡 博客：<a href="http://lideshan.cn/" target="_blank">主页 爱喝水的木子</a>
 - 👨‍💻 社区：<a href="http://lideshan.top" target="_blank">社区 爱喝水的木子</a>
