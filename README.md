@@ -1,6 +1,3 @@
-### Hi there 👋
-
-- 🔭 广州
 - 🌱 Python Node Javascript Go 
 
 ## 爱喝水的木子 🐟
