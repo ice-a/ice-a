@@ -1,3 +1,4 @@
+![爱喝水的木子's GitHub stats](https://github-readme-stats.vercel.app/api?username=ice-a&theme=merko&show_icons=true&show_owner=true)
 # 爱喝水的木子 🐟
 - 🌱 Python Node Javascript Go 
 - 🐧 爬虫工程师,拖延症晚期患者,数据爱好者
