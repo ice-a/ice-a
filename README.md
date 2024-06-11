@@ -23,21 +23,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ice-a" alt="ice-a" /></a> </p>
 
-- 🔭 I’m currently working on [mojo](https://www.mojofire.cn/)
 
-- 🌱 I’m currently learning **Golang,mojo**
-
-- 🤝 I’m looking for help with [mojo](https://www.mojofire.cn/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ice-a](https://github.com/ice-a)
 
-- 📝 I regularly write articles on [https://vue.lideshan.top/](https://vue.lideshan.top/)
+- 📝 文档 [https://vue.lideshan.top/](https://vue.lideshan.top/)
 
-- 💬 Ask me about **python,node,spider**
+- 💬 技术栈 **python,node,spider**
 
-- 📫 How to reach me **muzi@lideshan.cn**
+- 📫 邮箱 **leebigshan@gmail.com**
 
-- 📄 Know about my experiences [https://lideshan.top/](https://lideshan.top/)
+- 📄 博客 [https://lideshan.top/](https://lideshan.top/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
