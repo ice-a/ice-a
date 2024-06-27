@@ -14,26 +14,42 @@
 ## 爱喝水的木子 🐟
 - 🌱 Python Node Javascript Go 
 - 🐧 爬虫工程师,拖延症晚期患者,数据爱好者
-- 🏡 博客：<a href="http://lideshan.cn/" target="_blank">主页 爱喝水的木子</a>
-- 👨‍💻 社区：<a href="http://lideshan.top" target="_blank">社区 爱喝水的木子</a>
-- 👨‍ 问答：<a href="https://hlds.fun" target="_blank">爱喝水的木子</a>
-- 💬 知乎：<a href="https://www.zhihu.com/people/love_water_blue" target="_blank">知乎 爱喝水的木子呀</a>
+- 👨‍💻 社区：<a href="http://lideshan.top" target="_blank">爱喝水的木子</a>
+
+
+
+## 社交媒体
+- [掘金](https://juejin.cn/user/712139267643543)
+- [博客园](https://www.cnblogs.com/ldsice)
+- [CSDN](https://blog.csdn.net/Linux_rm_rf_)
+- [知乎](https://www.zhihu.com/people/love_water_blue)
+- [github主页](https://lideshan.cn/)
+- [文档](https://doc.lideshan.top/)
+
+## 小众小工具
+- [ip信息](https://ip.lideshan.top/)
+- [互联网小工具](https://tools.lideshan.top/)
+- [我的网盘](http://pan.lideshan.top/)
+- [dev备忘录](https://dev.lideshan.top/)
+- [docker加速](https://docker.hlds.fun/)
+- [openai_api加速](https://openai.hlds.fun/)
+- [做饭指南](https://cook.lideshan.top/)
+- [吃什么](https://eat.lideshan.top/)
+- [重生之我在工厂拧螺丝](https://remake.lideshan.top/public/index.html)
+- [linux命令查询](https://bash.lideshan.top/)
+- [web-check](https://one.lideshan.top/)
+- [短网址](http://short.lideshan.top/)
+- [文案](http://api.hlds.fun)
+- [发疯头像](http://avatar.hlds.fun)
+## 自动化小工具
+- [签到](http://qd.lideshan.top/)
+- [青龙面板](http://ql.lideshan.top/login)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-a&label=Profile%20views&color=0e75b6&style=flat" alt="ice-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ice-a" alt="ice-a" /></a> </p>
 
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/ice-a](https://github.com/ice-a)
-
-- 📝 文档 [https://vue.lideshan.top/](https://vue.lideshan.top/)
-
-- 💬 技术栈 **python,node,spider**
-
-- 📫 邮箱 **leebigshan@gmail.com**
-
-- 📄 博客 [https://lideshan.top/](https://lideshan.top/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
