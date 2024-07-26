@@ -7,9 +7,14 @@
 
 ![xx](https://img.shields.io/badge/爱喝水的木子-欲买桂花同载酒,终不似,少年游-brightgreen)
 [![爱喝水的木子's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ice-a&theme=github)](https://github.com/ice-a/github-readme-activity-graph)
+
 # 超大流量卡 29元/月 免费领取
 ![](./01.png)
 ![](./02.png)
+
+## Dupay虚拟卡
+支持openai,visa支付,支付宝充值
+![](./3.jpg)
 
 ## 爱喝水的木子 🐟
 - 🌱 Python Node Javascript Go 
