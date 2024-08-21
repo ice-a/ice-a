@@ -11,9 +11,9 @@
 # 超大流量卡 29元/月 免费领取
 ![](./02.png)
 
-## Dupay虚拟卡
-支持openai,visa支付,支付宝充值
-![](./3.jpg)
+#Dupay虚拟卡
+## 支持openai,visa支付,支付宝充值
+![](./03.png)
 
 ## 爱喝水的木子 🐟
 - 🌱 Python Node Javascript Go 
