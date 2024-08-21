@@ -9,7 +9,6 @@
 [![爱喝水的木子's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ice-a&theme=github)](https://github.com/ice-a/github-readme-activity-graph)
 
 # 超大流量卡 29元/月 免费领取
-![](./01.png)
 ![](./02.png)
 
 ## Dupay虚拟卡
