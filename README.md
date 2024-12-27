@@ -4,9 +4,6 @@
 ![xx](https://img.shields.io/badge/爱喝水的木子-欲买桂花同载酒,终不似,少年游-brightgreen)
 [![爱喝水的木子's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ice-a&theme=github)](https://github.com/ice-a/github-readme-activity-graph)
 
-![](https://count.lideshan.top/@ice-a?name=ice-a&theme=booru-smtg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-# 超大流量卡 29元/月 免费领取
-![](./02.png)
 
 ## 爱喝水的木子 🐟
 - 🌱 Python Node Javascript Go 
