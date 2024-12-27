@@ -18,26 +18,11 @@
 - [CSDN](https://blog.csdn.net/Linux_rm_rf_)
 - [知乎](https://www.zhihu.com/people/love_water_blue)
 - [github主页](https://lideshan.cn/)
-- [文档](https://doc.lideshan.top/)
+- [B站](https://space.bilibili.com/309278307)
 
 ## 小众小工具
-- [ip信息](https://ip.lideshan.top/)
-- [互联网小工具](https://tools.lideshan.top/)
-- [我的网盘](http://pan.lideshan.top/)
-- [dev备忘录](https://dev.lideshan.top/)
-- [docker加速](https://docker.hlds.fun/)
-- [openai_api加速](https://openai.hlds.fun/)
-- [做饭指南](https://cook.lideshan.top/)
-- [吃什么](https://eat.lideshan.top/)
-- [重生之我在工厂拧螺丝](https://remake.lideshan.top/public/index.html)
-- [linux命令查询](https://bash.lideshan.top/)
-- [web-check](https://one.lideshan.top/)
-- [短网址](http://short.lideshan.top/)
-- [文案](http://api.hlds.fun)
-- [发疯头像](http://avatar.hlds.fun)
-## 自动化小工具
-- [签到](http://qd.lideshan.top/)
-- [青龙面板](http://ql.lideshan.top/login)
+- [Status](https://status.lideshan.top/status/muzi)
+- ![](https://img.lideshan.top/guest/2024/12/27/676e08131b75d.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-a&label=Profile%20views&color=0e75b6&style=flat" alt="ice-a" /> </p>
