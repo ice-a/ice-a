@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm 爱喝水的木子</h1>
 <h3 align="center">欲买桂花同载酒,终不似,少年游</h3>
 
+
+usdt: 0x35f98637e9bff4d92aee017576aab243dcac4751 (Polygon)
+usdc: 0x35f98637e9bff4d92aee017576aab243dcac4751 (Base)
 ![xx](https://img.shields.io/badge/爱喝水的木子-欲买桂花同载酒,终不似,少年游-brightgreen)
 [![爱喝水的木子's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ice-a&theme=github)](https://github.com/ice-a/github-readme-activity-graph)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-a&label=Profile%20views&color=0e75b6&style=flat" alt="ice-a" /> </p>
