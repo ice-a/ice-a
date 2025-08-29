@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-a&label=Profile%20views&color=0e75b6&style=flat" alt="ice-a" /> </p>
 
 [![爱喝水的木子's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ice-a&theme=github)](https://github.com/ice-a/github-readme-activity-graph)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-a&label=Profile%20views&color=0e75b6&style=flat" alt="ice-a" /> </p>
 
 
 - 🔭 从事 **数据处理**
@@ -34,7 +33,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/lovewatermuzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lovewatermuzi" height="30" width="40" /></a>
-<a href="/https://lideshan.cn/sitemap.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://lideshan.cn/sitemap.xml" height="30" width="40" /></a>
+<a href="https://lideshan.cn/sitemap.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://lideshan.cn/sitemap.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
