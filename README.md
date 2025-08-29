@@ -26,7 +26,7 @@
 - [B站](https://space.bilibili.com/309278307)
 
 ## 小众小工具
-- [Status](https://status.lideshan.top/status/muzi)
+- [Status](https://status.lideshan.cn/status/public)
 ![](https://img.lideshan.top/guest/2024/12/27/676e08131b75d.png)
 
 
