@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 爱喝水的木子</h1>
+<h1 align="center">爱喝水的木子</h1>
 <h3 align="center">欲买桂花同载酒,终不似,少年游</h3>
 
 
