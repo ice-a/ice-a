@@ -23,8 +23,6 @@
 
 - 📫 邮件联系 **leebigshan@gmail.com**
 
-- 📄 关于 [https://lideshan.cn/about](https://lideshan.cn/about)
-
 
 
 <h3 align="left">Connect with me:</h3>
