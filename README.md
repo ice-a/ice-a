@@ -19,8 +19,6 @@
 
 - 🐧 爬虫工程师,拖延症晚期患者,数据爱好者
 
-- 📝 我的博客内容 [https://lideshan.cn/](https://lideshan.cn/)
-
 - 💬 一起讨论 **python,spider,js,devops**
 
 - 📫 邮件联系 **leebigshan@gmail.com**
@@ -56,5 +54,12 @@
 - usdt: 0x35f98637e9bff4d92aee017576aab243dcac4751 (Polygon)
 
 - usdc: 0x35f98637e9bff4d92aee017576aab243dcac4751 (Base)
+
+- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Binance Smart Chain，币安智能链）
+- TLAfh2XRt3vXfwSiNK5sxAMbexWJRujeqe（TRON，波场）
+- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Ethereum，以太坊）
+- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Polygon，多边形链）
+- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Arbitrum One， Arbitrum 一层网络）
+- 2ZjjZC5AyBcbyUrYCWVxudMXRtUHv8eCvhqAPGZe23rM（Solana，索拉纳链）
 <p><a href="https://www.buymeacoffee.com/leemuzi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leemuzi" /></a></p><br><br>
 
