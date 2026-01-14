@@ -23,6 +23,8 @@
 
 - 📫 邮件联系 **leebigshan@gmail.com**
 
+  talk： https://discord.gg/WKQ4QuMxU
+
 
 
 <h3 align="left">Connect with me:</h3>
