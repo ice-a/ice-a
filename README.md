@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ice-a&label=Profile%20views&color=0e75b6&style=flat" alt="ice-a" /> </p>
 
-[![爱喝水的木子's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ice-a&theme=github)](https://github.com/ice-a/github-readme-activity-graph)
 
 
 - 🔭 从事 **数据处理**
@@ -51,15 +50,5 @@
 
 <h3 align="left">Support:</h3>
 
-- usdt: 0x35f98637e9bff4d92aee017576aab243dcac4751 (Polygon)
-
-- usdc: 0x35f98637e9bff4d92aee017576aab243dcac4751 (Base)
-
-- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Binance Smart Chain，币安智能链）
-- TLAfh2XRt3vXfwSiNK5sxAMbexWJRujeqe（TRON，波场）
-- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Ethereum，以太坊）
-- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Polygon，多边形链）
-- 0x63ee20d1cbfb8f259f4de5b335e43c31bdf02edd（Arbitrum One， Arbitrum 一层网络）
-- 2ZjjZC5AyBcbyUrYCWVxudMXRtUHv8eCvhqAPGZe23rM（Solana，索拉纳链）
 <p><a href="https://www.buymeacoffee.com/leemuzi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leemuzi" /></a></p><br><br>
 
